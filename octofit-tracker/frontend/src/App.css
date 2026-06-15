@@ -1,0 +1,18 @@
+.app-shell {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.welcome-card {
+  max-width: 38rem;
+  background: white;
+  border-radius: 1.25rem;
+  padding: 2rem;
+  box-shadow: 0 24px 80px rgba(15, 23, 42, 0.08);
+}
+
+.welcome-card h1 {
+  margin-top: 0;
+}
